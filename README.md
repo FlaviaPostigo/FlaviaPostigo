@@ -19,6 +19,6 @@ Ao longo da carreira, liderei equipes multidisciplinares, desenvolvi produtos ed
 
 ## Projetos em Destaque
 
-- Jogos Corporativos e Gamificações: SIPAT Suzano, Lhg Mining e Jornada da Cultura da Aegea
-- Programa Grandes Líderes de MS
+- Jogos Corporativos e Gamificações
+- Programas de Lideranças
 - Cursos EAD personalizados
