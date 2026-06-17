@@ -22,4 +22,4 @@ Liderança integral do projeto, definição da estratégia educacional, estrutur
 
 Engajamento de aproximadamente mil colaboradores, fortalecimento da compreensão dos valores organizacionais e ampliação da adesão às iniciativas de cultura.
 [
-![Descrição da imagem](https://conexaoplaneta.com.br/wp-content/uploads/2025/05/sapo-ponta-flecha-alexander-monico-abre-conexao-planeta.jpg))
+![Jornada da Cultura AEGEA]([URL-da-imagem](https://acesse.one/gie3p8p))
