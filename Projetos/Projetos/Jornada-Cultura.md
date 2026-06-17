@@ -1,4 +1,4 @@
-# Jornada Cultura Aegea
+# Jornada Cultura
 
 ## Contexto
 
