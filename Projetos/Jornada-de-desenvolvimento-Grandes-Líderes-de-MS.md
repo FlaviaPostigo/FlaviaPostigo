@@ -2,25 +2,23 @@
 
 ## Contexto
 
-O desafio consistia em disseminar a cultura organizacional e fortalecer a compreensão dos valores da Aegea entre os colaboradores durante as comemorações do Dia do Trabalhador.
+Programa de desenvolvimento voltado para gestores do Governo do Estado de Mato Grosso do Sul, com o objetivo de fortalecer lideranças estratégicas e potencializar competências comportamentais essenciais para a gestão de pessoas e resultados.
 
 ## Solução
 
-Com base no livro de cultura da organização, liderei o desenho da experiência de aprendizagem e, em conjunto com a equipe, desenvolvi e implementei uma jornada composta por quatro experiências [...]
-
-A iniciativa impactou aproximadamente mil colaboradores ao longo de um dia de imersão.
+Estruturei uma jornada completa de desenvolvimento, composta por jogo corporativo autoral, trilha de aprendizagem, mapeamento de perfil comportamental, devolutivas individuais e análises de equipes, promovendo uma experiência integrada de autoconhecimento, desenvolvimento e aplicação prática das competências trabalhadas.
 
 ## Metodologia
 
-Realização de diagnóstico das necessidades do cliente, análise da cultura organizacional, design instrucional da experiência, desenvolvimento e prototipação das atividades, aplicação de p[...]
+Abordagem presencial baseada em aprendizagem experiencial, combinando avaliação comportamental, devolutivas individuais, reflexões guiadas, dinâmicas em grupo, análise de casos, resolução de problemas e compartilhamento de experiências entre os participantes. A construção do conhecimento ocorreu de forma colaborativa, conectando os conteúdos trabalhados aos desafios reais da atuação dos gestores.
 
 ## Meu Papel
 
-Liderança integral do projeto, definição da estratégia educacional, estruturação dos conteúdos, acompanhamento do desenvolvimento das soluções e coordenação da equipe multidisciplinar.
+Responsável pela concepção e arquitetura da jornada de desenvolvimento, curadoria de conteúdos, acompanhamento técnico das execuções, orientação da equipe de facilitadores, condução de devolutivas estratégicas individuais e coletivas, análise de equipes, gestão da implementação e apresentação dos resultados aos demandantes do programa.
 
 ## Resultados
 
-Engajamento de aproximadamente mil colaboradores, fortalecimento da compreensão dos valores organizacionais e ampliação da adesão às iniciativas de cultura.
+Desenvolvimento de 109 gestores públicos, fortalecimento das competências de liderança, ampliação do alinhamento estratégico entre equipes e elevado índice de satisfação dos participantes do programa.
 
 ## Vídeos do projeto
 
