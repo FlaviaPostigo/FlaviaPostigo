@@ -21,3 +21,5 @@ Liderança integral do projeto, definição da estratégia educacional, estrutur
 ## Resultados
 
 Engajamento de aproximadamente mil colaboradores, fortalecimento da compreensão dos valores organizacionais e ampliação da adesão às iniciativas de cultura.
+
+![Descrição da imagem]([URL-da-imagem](https://www.instagram.com/reel/C6rdN38JXU3/?igsh=MTZyc2x0cG9henU2ag==))
