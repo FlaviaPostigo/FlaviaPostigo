@@ -6,13 +6,20 @@ O desafio consistia em disseminar a cultura organizacional e fortalecer a compre
 
 ## Solução
 
-Com base no livro de cultura da organização, liderei o desenho da experiência de aprendizagem e, em conjunto com a equipe, desenvolvi e implementei uma jornada composta por quatro experiências lúdicas e interativas.
+Com base no livro de cultura da organização, liderei o desenho da experiência de aprendizagem e, em conjunto com a equipe, desenvolvi e implementei uma jornada composta por quatro experiências [...]
 
 A iniciativa impactou aproximadamente mil colaboradores ao longo de um dia de imersão.
 
+## Visualização do Vídeo
+
+<video width="100%" controls>
+  <source src="Uma imersão na Jornada da cultura @aegea.saneamento Criamos um ambiente que impulsiona cada um a.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos em HTML5
+</video>
+
 ## Metodologia
 
-Realização de diagnóstico das necessidades do cliente, análise da cultura organizacional, design instrucional da experiência, desenvolvimento e prototipação das atividades, aplicação de pilotos e monitoramento dos resultados por meio de indicadores de participação, engajamento e percepção dos participantes.
+Realização de diagnóstico das necessidades do cliente, análise da cultura organizacional, design instrucional da experiência, desenvolvimento e prototipação das atividades, aplicação de p[...]
 
 ## Meu Papel
 
@@ -22,5 +29,4 @@ Liderança integral do projeto, definição da estratégia educacional, estrutur
 
 Engajamento de aproximadamente mil colaboradores, fortalecimento da compreensão dos valores organizacionais e ampliação da adesão às iniciativas de cultura.
 
-## Vídeo
-![Jornada da Cultura AEGEA]([URL-da-imagem](https://acesse.one/gie3p8p))
+![Jornada da Cultura AEGEA](https://acesse.one/gie3p8p)
