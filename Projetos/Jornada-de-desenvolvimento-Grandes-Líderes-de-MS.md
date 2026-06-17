@@ -25,6 +25,6 @@ Engajamento de aproximadamente mil colaboradores, fortalecimento da compreensão
 ## Vídeos do projeto
 
 <video width="100%" controls>
-  <source src="O ano de 2024 foi muito especial.mp4" type="video/mp4">
+  <source src="O ano de 2024 foi muito especial por aqui!✨Por meio de parceria com a Escola de Governo de Mato .mp4" type="video/mp4">
   Seu navegador não suporta vídeos em HTML5
 </video>
