@@ -6,13 +6,13 @@ O desafio consistia em disseminar a cultura organizacional e fortalecer a compre
 
 ## Solução
 
-Com base no livro de cultura da organização, liderei o desenho da experiência de aprendizagem e, em conjunto com a equipe, desenvolvi e implementei uma jornada composta por quatro experiências lúdicas e interativas.
+Com base no livro de cultura da organização, liderei o desenho da experiência de aprendizagem e, em conjunto com a equipe, desenvolvi e implementei uma jornada composta por quatro experiências [...]
 
 A iniciativa impactou aproximadamente mil colaboradores ao longo de um dia de imersão.
 
 ## Metodologia
 
-Realização de diagnóstico das necessidades do cliente, análise da cultura organizacional, design instrucional da experiência, desenvolvimento e prototipação das atividades, aplicação de pilotos e monitoramento dos resultados por meio de indicadores de participação, engajamento e percepção dos participantes.
+Realização de diagnóstico das necessidades do cliente, análise da cultura organizacional, design instrucional da experiência, desenvolvimento e prototipação das atividades, aplicação de p[...]
 
 ## Meu Papel
 
@@ -22,4 +22,9 @@ Liderança integral do projeto, definição da estratégia educacional, estrutur
 
 Engajamento de aproximadamente mil colaboradores, fortalecimento da compreensão dos valores organizacionais e ampliação da adesão às iniciativas de cultura.
 
-## Vídeos
+## Vídeos do projeto
+
+<video width="100%" controls>
+  <source src="O ano de 2024 foi muito especial.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos em HTML5
+</video>
