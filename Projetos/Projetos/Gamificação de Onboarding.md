@@ -1,4 +1,4 @@
-# Jornada Cultura Aegea
+# Gamificação de Onboarding
 
 ## Contexto
 O desafio era tornar o processo de onbording da LHG Mining mais dinâmico, participativo e conectado à cultura, aos valores, à segurança e às práticas essenciais da empresa.
