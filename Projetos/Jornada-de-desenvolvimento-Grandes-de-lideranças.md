@@ -1,8 +1,8 @@
-# Jornada de Desenvolvimento Grandes Líderes de MS
+# Jornada de Desenvolvimento de Lideranças
 
 ## Contexto
 
-Programa de desenvolvimento voltado para gestores do Governo do Estado de Mato Grosso do Sul, com o objetivo de fortalecer lideranças estratégicas e potencializar competências comportamentais essenciais para a gestão de pessoas e resultados.
+Programa de desenvolvimento voltado para gestores do Governo do Estado, com o objetivo de fortalecer lideranças estratégicas e potencializar competências comportamentais essenciais para a gestão de pessoas e resultados.
 
 ## Solução
 
